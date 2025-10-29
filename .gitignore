@@ -324,3 +324,7 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+
+# MyOwn
+.vs/
