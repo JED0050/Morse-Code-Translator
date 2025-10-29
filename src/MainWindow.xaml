@@ -6,7 +6,15 @@
         xmlns:local="clr-namespace:MorseCodeTanslator"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
 
+        <TextBox Grid.Column="0" Text="{Binding TextLeft, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" FontSize="24" d:Text="AAA"/>
+
+        <TextBox Grid.Column="2" Text="{Binding TextRight, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" FontSize="24"/>
     </Grid>
 </Window>

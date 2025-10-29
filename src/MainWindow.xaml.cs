@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using MorseCodeTanslator.Model;
+using MorseCodeTanslator.ViewModel;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -19,6 +21,10 @@ namespace MorseCodeTanslator
         public MainWindow()
         {
             InitializeComponent();
+
+            TranslatorModel model = new TranslatorModel();
+
+            DataContext = new TranslatorVM(model);
         }
     }
 }

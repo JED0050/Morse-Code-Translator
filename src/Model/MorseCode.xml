@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MorseCodes>
+  <Code Character="A" Value=".-" />
+  <Code Character="B" Value="-..." />
+  <Code Character="C" Value="-.-." />
+  <Code Character="D" Value="-.." />
+  <Code Character="E" Value="." />
+  <Code Character="F" Value="..-." />
+  <Code Character="G" Value="--." />
+  <Code Character="H" Value="...." />
+  <Code Character="I" Value=".." />
+  <Code Character="J" Value=".---" />
+  <Code Character="K" Value="-.-" />
+  <Code Character="L" Value=".-.." />
+  <Code Character="M" Value="--" />
+  <Code Character="N" Value="-." />
+  <Code Character="O" Value="---" />
+  <Code Character="P" Value=".--." />
+  <Code Character="Q" Value="--.-" />
+  <Code Character="R" Value=".-." />
+  <Code Character="S" Value="..." />
+  <Code Character="T" Value="-" />
+  <Code Character="U" Value="..-" />
+  <Code Character="V" Value="...-" />
+  <Code Character="W" Value=".--" />
+  <Code Character="X" Value="-..-" />
+  <Code Character="Y" Value="-.--" />
+  <Code Character="Z" Value="--.." />
+  <Code Character="0" Value="-----" />
+  <Code Character="1" Value=".----" />
+  <Code Character="2" Value="..---" />
+  <Code Character="3" Value="...--" />
+  <Code Character="4" Value="....-" />
+  <Code Character="5" Value="....." />
+  <Code Character="6" Value="-...." />
+  <Code Character="7" Value="--..." />
+  <Code Character="8" Value="---.." />
+  <Code Character="9" Value="----." />
+  <Code Character="." Value=".-.-.-" />
+  <Code Character="," Value="--..--" />
+  <Code Character="?" Value="..--.." />
+  <Code Character="'" Value=".----." />
+  <Code Character="!" Value="-.-.--" />
+  <Code Character="/" Value="-..-." />
+  <Code Character="(" Value="-.--." />
+  <Code Character=")" Value="-.--.-" />
+  <Code Character="&amp;" Value=".-..." />
+  <Code Character=":" Value="---..." />
+  <Code Character=";" Value="-.-.-." />
+  <Code Character="=" Value="-...-" />
+  <Code Character="+" Value=".-.-." />
+  <Code Character="-" Value="-....-" />
+  <Code Character="_" Value="..--.-" />
+  <Code Character="&quot;" Value=".-..-." />
+  <Code Character=" " Value="/" />
+</MorseCodes>
